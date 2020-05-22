@@ -1,4 +1,162 @@
-# LEI ORGÂNICA DO MUNICÍPIO DE MARACAJU/MS
+
+
+*Gerado em Fri May 22 00:26:49 2020 - github.com/jhoonb/maracaju/lei-organica*
+
+## LEI ORGÂNICA DO MUNICÍPIO DE MARACAJU/MS
+
+
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+
+
+
+**SUMÁRIO** 
+
+TÍTULO I - DISPOSIÇÕES PRELIMINARES ***(Art. 1° ao 6°)***
+
+TÍTULO II - DA COMPETÊNCIA MUNICIPAL ***(Art. 7° ao 8°)***
+
+TÍTULO III - DO GOVERNO MUNICIPAL
+
+- CAPÍTULO I - DOS PODERES MUNICIPAIS ***(Art. 9°)***
+
+- CAPÍTULO II - DO PODER LEGISLATIVO
+
+	 - SEÇÃO I - DA CÂMARA MUNICIPAL ***(Art. 10° ao 12)***
+
+	 - SEÇÃO II - DA POSSE ***(Art. 13)***
+
+	 - SEÇÃO III - DAS ATRIBUIÇÕES DA CÂMARA MUNICIPAL ***(Art. 14 ao 15)***
+
+	 - SEÇÃO IV - DO EXAME PÚBLICO DAS CONTAS MUNICIPAIS ***(Art. 16 ao 17)***
+
+	 - SEÇÃO V - DA REMUNERAÇÃO DOS AGENTES POLÍTICOS ***(Art. 18 ao 23)***
+
+	 - SEÇÃO VI - DA ELEIÇÃO DA MESA ***(Art. 24)***
+
+	 - SEÇÃO VII - DAS ATRIBUIÇÕES DA MESA ***(Art. 25)***
+
+	 - SEÇÃO VIII - DAS SESSÕES ***(Art. 26 ao 30)***
+
+	 - SEÇÃO IX - DAS COMISSÕES ***(Art. 31 ao 33)***
+
+	 - SEÇÃO X - DO PRESIDENTE DA CÂMARA MUNICIPAL ***(Art. 34 ao 35)***
+
+	 - SEÇÃO XI - DO VICE-Presidente DA CÂMARA MUNICIPAL ***(Art. 36)***
+
+	 - SEÇÃO XII - DO SECRETARIO DA CÂMARA MUNICIPAL ***(Art. 37)***
+
+	 - SEÇÃO XIII - DOS VEREADORES
+
+		 - SUBSEÇÃO I - DISPOSIÇÕES GERAIS ***(Art. 38 ao 40)***
+
+		 - SUBSEÇÃO II - DAS INCOMPATIBILIDADES ***(Art. 41 ao 42)***
+
+		 - SUBSEÇÃO III - DO VEREADOR SERVIDOR PÚBLICO ***(Art. 43)***
+
+		 - SUBSEÇÃO IV - DAS LICENCAS ***(Art. 44)***
+
+		 - SUBSEÇÃO V - DA CONVOCAÇÃO DOS SUPLENTES ***(Art. 45)***
+
+	 - SEÇÃO XIV - DO PROCESSO LEGISLATIVO - DISPOSIÇÃO GERAL ***(Art. 46)***
+
+		 - SUBSEÇÃO II - DAS EMENDAS A LEI ORGÂNICA MUNICIPAL ***(Art. 47)***
+
+		 - SUBSEÇÃO III - DAS LEIS ***(Art. 48 ao 61)***
+
+- CAPITULO III - DO PODER EXECUTIVO
+
+	 - SEÇÃO I - DO PREFEITO MUNICIPAL ***(Art. 62 ao 65)***
+
+	 - SEÇÃO II - DAS PROIBIÇÕES ***(Art. 66)***
+
+	 - SEÇÃO III - DAS LICENÇAS ***(Art. 67 ao 68)***
+
+	 - SEÇÃO IV - DAS ATRIBUIÇÕES DO PREFEITO ***(Art. 69)***
+
+	 - SEÇÃO V - DA TRANSIÇÃO ADMINISTRATIVA ***(Art. 70 ao 71)***
+
+	 - SEÇÃO VI - DOS AUXILIARES DIRETOS DO PREFEITO MUNICIPAL ***(Art. 72 ao 76)***
+
+	 - SEÇÃO VII - DA CONSULTA POPULAR ***(Art. 77 ao 80)***
+
+TÍTULO IV - DA ADMINISTRAÇÃO MUNICIPAL
+
+- CAPÍTULO I - ISPOSIÇÕES GERAIS ***(Art. 81 ao 89)***
+
+- CAPITULO II - DOS ATOS MUNICIPAIS ***(Art. 90 ao 91)***
+
+- CAPITULO III - DOS TRIBUTOS MUNICIPAIS ***(Art. 92 ao 100)***
+
+- CAPITULO IV - DOS PREÇOS PÚBLICOS ***(Art. 101 ao 102)***
+
+- CAPÍTULO V - DOS ORÇAMENTOS
+
+	 - SEÇÃO I - DISPOSIÇÕES GERAIS ***(Art. 103 ao 105)***
+
+	 - SEÇÃO II - DAS VEDAÇÕES ORÇAMENTARIAS ***(Art. 106)***
+
+	 - SEÇÃO III - DAS EMENDAS AOS PROJETOS ORÇAMENTÁRIOS ***(Art. 107)***
+
+	 - SEÇÃO IV - DA EXECUÇÃO ORÇAMENTÁRIA ***(Art. 108 ao 111)***
+
+	 - SEÇÃO V - DA GESTÃO DA TESOURARIA ***(Art. 112 ao 114)***
+
+	 - SEÇÃO VI - DA ORGANIZAÇÃO CONTÁBIL ***(Art. 115 ao 116)***
+
+	 - SEÇÃO VII - DAS CONTAS MUNICIPAIS ***(Art. 117)***
+
+	 - SEÇÃO VIII - DA PRESTAÇÃO E TOMADAS DE CONTAS ***(Art. 118)***
+
+	 - SEÇÃO IX - DO CONTROLE INTERNO INTEGRADO ***(Art. 119)***
+
+- CAPITULO VI - DA ADMINISTRAÇÃO DOS BENS PATRIMONIAIS ***(Art. 120 ao 127)***
+
+- CAPITULO VII - DAS OBRAS E SERVIÇOS PÚBLICOS ***(Art. 128 ao 140)***
+
+- CAPITULO VIII - DOS DISTRITOS
+
+	 - SEÇÃO I - DISPOSIÇÕES GERAIS ***(Art. 141 ao 143)***
+
+	 - SEÇÃO II - DOS CONSELHEIROS DISTRITAIS ***(Art. 144 ao 145)***
+
+	 - SEÇÃO III - DO ADMINISTRADOR DISTRITAL ***(Art. 149 ao 150)***
+
+- CAPITULO IX - DO PLANEJAMENTO MUNICIPAL
+
+	 - SEÇÃO I - DISPOSIÇÕES GERAIS ***(Art. 151 ao 156)***
+
+	 - SEÇÃO II - DA COOPERAÇÃO DAS ASSOCIAÇÕES NO PLANEJAMENTO MUNICIPAL ***(Art. 157 ao 159)***
+
+- CAPITULO X - DAS POLÍTICAS MUNICIPAIS
+
+	 - SEÇÃO I - DA POLÍTICA DE SAÚDE ***(Art. 160 ao 169)***
+
+	 - SEÇÃO II - DA POLÍTICA EDUCACIONAL, CULTURAL E DESPORTIVA ***(Art. 170 ao 190)***
+
+	 - SEÇÃO III - DA POLÍTICA DE ASSISTÊNCIA SOCIAL ***(Art. 191 ao 192)***
+
+	 - SEÇÃO IV - DA POLÍTICA ECONÔMICA ***(Art. 193 ao 205)***
+
+	 - SEÇÃO V - DA POLÍTICA URBANA ***(Art. 206 ao 214)***
+
+	 - SEÇÃO VI - DA POLÍTICA DO MEIO AMBIENTE ***(Art. 215 ao 222)***
+
+	 - SEÇÃO VII - DO DESENVOLVIMENTO RURAL ***(Art. 223 ao 227)***
+
+TÍTULO V - DISPOSIÇÕES FINAIS E TRANSITÓRIAS ***(Art. 228 ao 241)***
+
+
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+
+## LEI ORGÂNICA DO MUNICÍPIO DE MARACAJU/MS
 
 
 \* A PRESENTE LEI ORGÂNICA MUNICIPAL ESTÁ ATUALIZADA ATÉ A EMENDA N.º 015/2.011, DE 30.09.2011.
@@ -9,6 +167,11 @@ Deus e inspirados nos princípios constitucionais da República e do
 Estado de Mato Grosso do Sul, no ideal de a todos assegurar tratamento
 igualatório e bem-estar, decretamos e promulgamos a seguinte Lei
 Orgânica:**
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 
 ## TÍTULO I - DISPOSIÇÕES PRELIMINARES
 
@@ -2280,6 +2443,13 @@ analfabetismo e universalizar o ensino fundamental, como determina o artigo 60 d
 
 ---
 
+
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+
 MARACAJU-MS, 05 DE ABRIL DE 1.990.
 
 
@@ -2287,40 +2457,46 @@ MARACAJU-MS, 05 DE ABRIL DE 1.990.
 
 
 | Função | Vereador |
-|----|
+| :------------: | :-----------: |
 | PRESIDENTE | HÉLIO ALBARELLO |
 | VICE PRESIDENTE | EUCLIDES IVANI FELINI |
-| 1°. SECRETARIO | Ver.ROBERTO DE OLIVEIRA SILVA JÚNIOR |
-| 2°. SECRETARIO | ANTÔNIO EUCLIDES GOMES FERREIRA |
+| 1° SECRETARIO | Ver.ROBERTO DE OLIVEIRA SILVA JÚNIOR |
+| 2° SECRETARIO | ANTÔNIO EUCLIDES GOMES FERREIRA |
 | RELATOR GERAL | JOÃO CARLOS PESSATTO |
 | RELATOR ADJUNTO | JAIRO DA SILVA ANTORIA |
 
 
+
 ##### COMISSÃO DE SISTEMATIZAÇÃO:
 
-| Função | Vereador |
-|----|
-| PRESIDENTE | PAULO PEREIRA DA SILVA |
-| RELATOR | NELSON DIAS NETO |
+
+| Função        | Vereador     |
+| :-------------: | :----------: |
+|  PRESIDENTE | PAULO PEREIRA DA SILVA  |
+| RELATOR  | NELSON DIAS NETO |
 | MEMBRO | JOÃO CARLOS PESSATTO |
 
 
 #### COMISSÕES TEMÁTICAS:
 
 
-##### COMISSÃO DE ORDEM ECONÓMICA E SOCIAL:
+##### COMISSÃO DE ORDEM ECONÔMICA E SOCIAL:
+
+
 
 | Função | Vereador |
-|----|
+| :------: | :------: |
 | PRESIDENTE |  GILBERTO LUIZ MARTINOVISKI |
 | RELATOR |  JAIRO DA SILVA ANTORIA |
 | MEMBRO | ROBERTO DE OLIVEIRA SILVA JÚNIOR |
 
 
+
 ##### COMISSÃO DE ORGANIZAÇÃO DOS PODERES:
 
+
 | Função | Vereador |
-|----|
+| :------: | :------: |
 | PRESIDENTE | EUCLIDES IVANI FELINI |
 | RELATOR | NELSON DIAS NETTO |
 | MEMBRO | PAULO PEREIRA DA SILVA |
@@ -2328,8 +2504,9 @@ MARACAJU-MS, 05 DE ABRIL DE 1.990.
 
 ##### COMISSÃO DE ADMINISTRAÇÃO PÚBLICA:
 
+
 | Função | Vereador |
-|----|
+| :------: | :------: |
 | PRESIDENTE | GILBERTO LUIZ MARTINOVISKI|
 | RELATOR | ANTÓNIO EUCLIDES GOMES FERREIRA|
 | MEMBRO | HÉLIO ALBARELLO|
@@ -2337,8 +2514,9 @@ MARACAJU-MS, 05 DE ABRIL DE 1.990.
 
 ##### VEREADORES
 
-| Vereador |
-|---|
+
+| Nome |
+| :--------: |
 | HÉLIO ALBARELLO |
 | EUCLIDES IVANI FELINI | 
 | ROBERTO DE OLIVEIRA SILVA JÚNIOR | 
@@ -2352,147 +2530,19 @@ MARACAJU-MS, 05 DE ABRIL DE 1.990.
 
 ---
 
-**SUMÁRIO** 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
-LEI ORGÂNICA DO MUNICÍPIO DE MARACAJU/MS
 
-TÍTULO I - DISPOSIÇÕES PRELIMINARES ***(Art. 1° ao 6°)***
 
-TÍTULO II - DA COMPETÊNCIA MUNICIPAL ***(Art. 7° ao 8°)***
 
-TÍTULO III - DO GOVERNO MUNICIPAL
+*Gerado em Fri May 22 00:26:49 2020 - github.com/jhoonb/maracaju/lei-organica*
 
-- CAPÍTULO I - DOS PODERES MUNICIPAIS ***(Art. 9°)***
 
-- CAPÍTULO II - DO PODER LEGISLATIVO
 
-	 - SEÇÃO I - DA CÂMARA MUNICIPAL ***(Art. 10° ao 12)***
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
-	 - SEÇÃO II - DA POSSE ***(Art. 13)***
-
-	 - SEÇÃO III - DAS ATRIBUIÇÕES DA CÂMARA MUNICIPAL ***(Art. 14 ao 15)***
-
-	 - SEÇÃO IV - DO EXAME PÚBLICO DAS CONTAS MUNICIPAIS ***(Art. 16 ao 17)***
-
-	 - SEÇÃO V - DA REMUNERAÇÃO DOS AGENTES POLÍTICOS ***(Art. 18 ao 23)***
-
-	 - SEÇÃO VI - DA ELEIÇÃO DA MESA ***(Art. 24)***
-
-	 - SEÇÃO VII - DAS ATRIBUIÇÕES DA MESA ***(Art. 25)***
-
-	 - SEÇÃO VIII - DAS SESSÕES ***(Art. 26 ao 30)***
-
-	 - SEÇÃO IX - DAS COMISSÕES ***(Art. 31 ao 33)***
-
-	 - SEÇÃO X - DO PRESIDENTE DA CÂMARA MUNICIPAL ***(Art. 34 ao 35)***
-
-	 - SEÇÃO XI - DO VICE-Presidente DA CÂMARA MUNICIPAL ***(Art. 36)***
-
-	 - SEÇÃO XII - DO SECRETARIO DA CÂMARA MUNICIPAL ***(Art. 37)***
-
-	 - SEÇÃO XIII - DOS VEREADORES
-
-		 - SUBSEÇÃO I - DISPOSIÇÕES GERAIS ***(Art. 38 ao 40)***
-
-		 - SUBSEÇÃO II - DAS INCOMPATIBILIDADES ***(Art. 41 ao 42)***
-
-		 - SUBSEÇÃO III - DO VEREADOR SERVIDOR PÚBLICO ***(Art. 43)***
-
-		 - SUBSEÇÃO IV - DAS LICENCAS ***(Art. 44)***
-
-		 - SUBSEÇÃO V - DA CONVOCAÇÃO DOS SUPLENTES ***(Art. 45)***
-
-	 - SEÇÃO XIV - DO PROCESSO LEGISLATIVO - DISPOSIÇÃO GERAL ***(Art. 46)***
-
-		 - SUBSEÇÃO II - DAS EMENDAS A LEI ORGÂNICA MUNICIPAL ***(Art. 47)***
-
-		 - SUBSEÇÃO III - DAS LEIS ***(Art. 48 ao 61)***
-
-- CAPITULO III - DO PODER EXECUTIVO
-
-	 - SEÇÃO I - DO PREFEITO MUNICIPAL ***(Art. 62 ao 65)***
-
-	 - SEÇÃO II - DAS PROIBIÇÕES ***(Art. 66)***
-
-	 - SEÇÃO III - DAS LICENÇAS ***(Art. 67 ao 68)***
-
-	 - SEÇÃO IV - DAS ATRIBUIÇÕES DO PREFEITO ***(Art. 69)***
-
-	 - SEÇÃO V - DA TRANSIÇÃO ADMINISTRATIVA ***(Art. 70 ao 71)***
-
-	 - SEÇÃO VI - DOS AUXILIARES DIRETOS DO PREFEITO MUNICIPAL ***(Art. 72 ao 76)***
-
-	 - SEÇÃO VII - DA CONSULTA POPULAR ***(Art. 77 ao 80)***
-
-TÍTULO IV - DA ADMINISTRAÇÃO MUNICIPAL
-
-- CAPÍTULO I - ISPOSIÇÕES GERAIS ***(Art. 81 ao 89)***
-
-- CAPITULO II - DOS ATOS MUNICIPAIS ***(Art. 90 ao 91)***
-
-- CAPITULO III - DOS TRIBUTOS MUNICIPAIS ***(Art. 92 ao 100)***
-
-- CAPITULO IV - DOS PREÇOS PÚBLICOS ***(Art. 101 ao 102)***
-
-- CAPÍTULO V - DOS ORÇAMENTOS
-
-	 - SEÇÃO I - DISPOSIÇÕES GERAIS ***(Art. 103 ao 105)***
-
-	 - SEÇÃO II - DAS VEDAÇÕES ORÇAMENTARIAS ***(Art. 106)***
-
-	 - SEÇÃO III - DAS EMENDAS AOS PROJETOS ORÇAMENTÁRIOS ***(Art. 107)***
-
-	 - SEÇÃO IV - DA EXECUÇÃO ORÇAMENTÁRIA ***(Art. 108 ao 111)***
-
-	 - SEÇÃO V - DA GESTÃO DA TESOURARIA ***(Art. 112 ao 114)***
-
-	 - SEÇÃO VI - DA ORGANIZAÇÃO CONTÁBIL ***(Art. 115 ao 116)***
-
-	 - SEÇÃO VII - DAS CONTAS MUNICIPAIS ***(Art. 117)***
-
-	 - SEÇÃO VIII - DA PRESTAÇÃO E TOMADAS DE CONTAS ***(Art. 118)***
-
-	 - SEÇÃO IX - DO CONTROLE INTERNO INTEGRADO ***(Art. 119)***
-
-- CAPITULO VI - DA ADMINISTRAÇÃO DOS BENS PATRIMONIAIS ***(Art. 120 ao 127)***
-
-- CAPITULO VII - DAS OBRAS E SERVIÇOS PÚBLICOS ***(Art. 128 ao 140)***
-
-- CAPITULO VIII - DOS DISTRITOS
-
-	 - SEÇÃO I - DISPOSIÇÕES GERAIS ***(Art. 141 ao 143)***
-
-	 - SEÇÃO II - DOS CONSELHEIROS DISTRITAIS ***(Art. 144 ao 145)***
-
-	 - SEÇÃO III - DO ADMINISTRADOR DISTRITAL ***(Art. 149 ao 150)***
-
-- CAPITULO IX - DO PLANEJAMENTO MUNICIPAL
-
-	 - SEÇÃO I - DISPOSIÇÕES GERAIS ***(Art. 151 ao 156)***
-
-	 - SEÇÃO II - DA COOPERAÇÃO DAS ASSOCIAÇÕES NO PLANEJAMENTO MUNICIPAL ***(Art. 157 ao 159)***
-
-- CAPITULO X - DAS POLÍTICAS MUNICIPAIS
-
-	 - SEÇÃO I - DA POLÍTICA DE SAÚDE ***(Art. 160 ao 169)***
-
-	 - SEÇÃO II - DA POLÍTICA EDUCACIONAL, CULTURAL E DESPORTIVA ***(Art. 170 ao 190)***
-
-	 - SEÇÃO III - DA POLÍTICA DE ASSISTÊNCIA SOCIAL ***(Art. 191 ao 192)***
-
-	 - SEÇÃO IV - DA POLÍTICA ECONÔMICA ***(Art. 193 ao 205)***
-
-	 - SEÇÃO V - DA POLÍTICA URBANA ***(Art. 206 ao 214)***
-
-	 - SEÇÃO VI - DA POLÍTICA DO MEIO AMBIENTE ***(Art. 215 ao 222)***
-
-	 - SEÇÃO VII - DO DESENVOLVIMENTO RURAL ***(Art. 223 ao 227)***
-
-TÍTULO V - DISPOSIÇÕES FINAIS E TRANSITÓRIAS ***(Art. 228 ao 241)***
-
-
-
-
-
-<!--- github.com/jhoonb/maracaju -->
 

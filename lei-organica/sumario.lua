@@ -4,12 +4,11 @@
 ----------------------------------------------------
 -- textos da lei orgânica do Município de Maracaju
 -- listados em ordem de inserção
+-- os documentos .md devem estar no diretório textos/
 ------------------------------------------------------
 
 
 local sumario = {
-	
-	"TEXTO-INICIAL.md",
 	"TITULO-I.md",
 	"TITULO-II.md",
 	"TITULO-III.md",
@@ -76,8 +75,7 @@ local sumario = {
 	"TITULO-IV-CAPITULO-X-SECAO-V.md",
 	"TITULO-IV-CAPITULO-X-SECAO-VI.md",
 	"TITULO-IV-CAPITULO-X-SECAO-VII.md",
-	"TITULO-V.md",
-	"TEXTO-FINAL.md"
+	"TITULO-V.md"
 }
 
 return sumario
