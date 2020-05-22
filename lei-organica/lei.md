@@ -1,6 +1,6 @@
 
 
-*Gerado em Fri May 22 00:26:49 2020 - github.com/jhoonb/maracaju/lei-organica*
+*Gerado em Fri May 22 00:36:09 2020 - https://github.com/jhoonb/maracaju/*
 
 ## LEI ORGÂNICA DO MUNICÍPIO DE MARACAJU/MS
 
@@ -2537,7 +2537,7 @@ MARACAJU-MS, 05 DE ABRIL DE 1.990.
 
 
 
-*Gerado em Fri May 22 00:26:49 2020 - github.com/jhoonb/maracaju/lei-organica*
+*Gerado em Fri May 22 00:36:09 2020 - https://github.com/jhoonb/maracaju/*
 
 
 

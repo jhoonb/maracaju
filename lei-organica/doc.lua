@@ -1,6 +1,6 @@
 --
 -- jpbanczek@gmail.com - 2020
--- github.com/jhoonb/maracaju/lei-organica
+-- github.com/jhoonb/maracaju/
 ----------------------------------------------------
 -- doc.lua compila todos os textos da lei orgânica
 -- do Município de Maracaju que estão listados 
@@ -18,10 +18,10 @@ local DIR = 'textos/'
 -- opc = true para inserir como comentário
 local adicionar_fonte = function(opc)
   if not opc then
-    return '\n\n*Gerado em ' .. os.date() .. ' - github.com/jhoonb/maracaju/lei-organica*\n\n'
+    return '\n\n*Gerado em ' .. os.date() .. ' - https://github.com/jhoonb/maracaju/*\n\n'
   end
 
-  return '\n\n<!--- Gerado em ' .. os.date() .. ' - github.com/jhoonb/maracaju/lei-organica -->\n\n'
+  return '\n\n<!--- Gerado em ' .. os.date() .. ' - https://github.com/jhoonb/maracaju/ -->\n\n'
 end
 
 -- gera quebra de página para o Latex
