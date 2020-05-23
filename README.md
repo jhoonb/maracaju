@@ -12,7 +12,18 @@ Informações da Cidade de Maracaju/MS
 
 ---
 
-***Escrito com [Lua](https://www.lua.org/) e [Pandoc](https://pandoc.org/)***
+
+### Dependências:
+
+- [Linguagem Lua](https://www.lua.org/) 
+
+- Pandoc/Latex com pacote português:
+
+```bash
+sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra install texlive-lang-portuguese
+```
 
 
-###### *Jhonathan P. Banczek* - 2020
+- - - 
+
+###### *Jhonathan P. Banczek - 2020 - Escrito em [Lua](https://www.lua.org/)*

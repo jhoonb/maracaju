@@ -1,14 +1,44 @@
 --
 -- jpbanczek@gmail.com - 2020
--- github.com/jhoonb/maracaju/lei-organica
-----------------------------------------------------
--- textos da lei orgânica do Município de Maracaju
--- listados em ordem de inserção
--- os documentos .md devem estar no diretório textos/
-------------------------------------------------------
+-- github.com/jhoonb/maracaju
+---------------------------------------------------------------------
+-- config.lua - configuração para gerar os documentos 
+-- textos da Lei Orgânica do Município de Maracaju
+-- listados em ordem.
+-- os documentos .md devem estar no diretório config.dir
+---------------------------------------------------------------------
 
 
-local sumario = {
+local config = {}
+
+-- linguagem para o pdf (latex)
+config.lang = '---\nlang: pt-BR\n...\n'
+
+
+-- diretório onde estão os textos da Lei Orgânica
+config.dir = 'textos/'
+
+-- version texto para inserir no começo/fim do documento gerado
+-- para não inserir o version deixe como string vazia ''
+-- config.version = ''
+config.version = '\n\n###### *Gerado em ' .. os.date() .. ' - https://github.com/jhoonb/maracaju/*\n\n'
+
+-- gera quebra de página para o Latex
+config.pagebreak = '\n\n \\pagebreak \n\n'
+
+-- arquivo da capa 
+config.capa = 'CAPA.md'
+
+-- arquivo do texto inicial, pos capa.
+config.texto_inicial = 'TEXTO-INICIAL.md'
+
+-- arquivo do texto final 
+config.texto_final = 'TEXTO-FINAL.md'
+
+--
+-- todos os arquivos em ordem de inserção no texto
+--
+config.sumario = {
 	"TITULO-I.md",
 	"TITULO-II.md",
 	"TITULO-III.md",
@@ -78,4 +108,4 @@ local sumario = {
 	"TITULO-V.md"
 }
 
-return sumario
+return config

@@ -1,14 +1,9 @@
 
 
-*Gerado em Fri May 22 00:36:09 2020 - https://github.com/jhoonb/maracaju/*
+###### *Gerado em Sat May 23 16:57:44 2020 - https://github.com/jhoonb/maracaju/*
 
 ## LEI ORGÂNICA DO MUNICÍPIO DE MARACAJU/MS
 
-
-
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
 
 
 
@@ -151,11 +146,6 @@ TÍTULO V - DISPOSIÇÕES FINAIS E TRANSITÓRIAS ***(Art. 228 ao 241)***
 
 
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
-
 ## LEI ORGÂNICA DO MUNICÍPIO DE MARACAJU/MS
 
 
@@ -167,11 +157,6 @@ Deus e inspirados nos princípios constitucionais da República e do
 Estado de Mato Grosso do Sul, no ideal de a todos assegurar tratamento
 igualatório e bem-estar, decretamos e promulgamos a seguinte Lei
 Orgânica:**
-
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
 
 ## TÍTULO I - DISPOSIÇÕES PRELIMINARES
 
@@ -2445,11 +2430,6 @@ analfabetismo e universalizar o ensino fundamental, como determina o artigo 60 d
 
 
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
-
 MARACAJU-MS, 05 DE ABRIL DE 1.990.
 
 
@@ -2530,19 +2510,9 @@ MARACAJU-MS, 05 DE ABRIL DE 1.990.
 
 ---
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
 
 
+###### *Gerado em Sat May 23 16:57:44 2020 - https://github.com/jhoonb/maracaju/*
 
-
-*Gerado em Fri May 22 00:36:09 2020 - https://github.com/jhoonb/maracaju/*
-
-
-
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
 
 
